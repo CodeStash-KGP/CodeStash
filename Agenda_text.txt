@@ -1,0 +1,45 @@
+﻿BroCode Road-Map
+
+
+This is a road-map for BroCode with some tentative items that I’ve thought we will be doing. The items in the list are in unordered form and hence depending upon the needs of time, team has the advantage of being flexible in out steps.
+
+BroCode should be something big with multiple small but enthusiastic and self-motivated teams under it. The teams will comprise people we will recruit from next year to join us, and the number of students to be selected will be low as we want only serious people to get in and contribute. The teams could be about anything that needs coding in some or the other way; and BroCode will be heading their operations on the surface level. 
+
+Below are some plans I’ve in mind:
+
+    • CodeX [To be live by 20 Dec ‘17]:
+            ▪ This will be the forum where we sort to bring people who know stuff and people who want to know things together. It’ll be managed by BroCode alongside one member from KOSS as well as CodeClub. 
+            ▪ The motive behind bringing them in is that we have the vision but we lack the do-how knowledge of most of the things and a help from them will help us grow.
+            ▪ This group will be, as proposed, self-sustaining with little to no intervention from the Board of BroCode.
+
+    • Android Dev Club [not decided]
+            ▪  A club where people with willingness to develop android applications will be in. 
+            ▪ This club will have a play store account under BroCode and all the applications that are made will be published under it.
+            ▪ This team will consist of recruited members alongside members from BroCode Board who are interested.
+            ▪ Initially a learning platform for new comers, this will be responsible for publishing quality apps under our banner. 
+            ▪ Monetary investments, benefits and other associated fields to be discussed later.
+
+	
+    • Game Dev Club [far down the lane]:
+            ▪ A place where people fond of making games will live, thrive and publish.
+            ▪ Initially the aim will be to publish games on easier platforms like Windows, Android etc. 
+            ▪ Various technologies used in this will be Unity game engine, Pygame library (initial touch and acquaintance with game physics.), GameMaker etc.
+            ▪ All games will be published under the banner “in association with BroCode, IIT Kharagpur”.
+            ▪ More information will be added after discussion with the Board.
+
+    • Web Dev Team [down the lane]:
+            ▪ As the name suggests, this will be the team who will be passionate about Web Dev.
+            ▪ The projects under this will include languages like HTML, CSS, JavaScript etc, and frameworks like BootStrap.
+            ▪ The team will also be responsible for maintaining the website of BroCode (which is the first task when this will be established).
+            ▪ Website will be hosted on either free server space or under the investment in BroCode.
+
+    • Competitive Coding Team [To be setup by end of Jan ‘17]:
+            ▪ This will consist of at most 9 people willing to devote their time to competitive coding and are self-motivated with a bent to learn things by themselves.
+            ▪ The motive of this team will be to grow by learning from each other.
+            ▪ The selection criteria will be decided upon later but as of now, it’ll be an individual’s present performance and willingness to invest time in it.
+            ▪ Kousshik, Shivam and Krithick are already the members of this, and they come under the 9 people. Hence, only 6 more places left.
+
+This current plan seems too huge but it’s just an idea over what we want to achieve in the upcoming times. I don’t want BroCode to be just another CodeClub or similar… I want it to be a varied learning platform, something we leave for coming students to cherish. Everybody does something for themselves, let’s do it for people to come. I know people will think we are crazy and may not believe in our ideas but then… people never appreciate someone trying to rise beyond them, and we shouldn’t expect them doing differently this time.
+
+“Intentions, if not worked upon by actions… remain ONLY intentions”
+ 
