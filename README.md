@@ -10,4 +10,4 @@ A repository to contain information and assets of CodeStash.
 `roles.md` contains the description of various positions in CodeStash and the general selection procedure.
 
 ### Assets
-`assets.md` contains brief description into the different groups run under CodeStash.
+`assets.md` contains brief description of the different groups run under CodeStash.
